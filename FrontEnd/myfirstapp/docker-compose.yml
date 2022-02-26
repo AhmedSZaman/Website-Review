@@ -1,0 +1,7 @@
+{
+  "name": "Group2-SEPT-node-000",
+  "version": "1.0.0",
+  "lockfileVersion": 1
+  ports:
+      - "3000:3000"
+}
